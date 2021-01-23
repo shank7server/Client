@@ -1,3 +1,7 @@
+新版本修复：
+http://crazyflasher.andylaw.games/repair.html
+
+老版本修复：
 1.安装后黑屏、白屏以及需要修复等问题。
 点击客户端左上角黑屏解决按钮或者打开http://flash.cn安装即可。
 

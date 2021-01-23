@@ -1,3 +1,8 @@
+新版本：
+http://crazyflasher.andylaw.games/download.html
+下载安装解压缩文件，运行即可。
+
+老版本：
 1.请根据玩家系统安装，目录下的NetFx20SP2_x64.exe或NetFx20SP2_x86.exe文件。
 64位系统的玩家请安装NetFx20SP2_x64.exe
 32位系统的玩家请安装exe或NetFx20SP2_x86.exe
